@@ -27,7 +27,5 @@ Throughout the process, special attention was given to error handling and syntax
 In conclusion, this database migration task successfully demonstrated the real-world practice of transitioning from MySQL to PostgreSQL. With a clear understanding of both platforms’ syntax and feature differences, combined with strategic use of tools like mysqldump, psql, and manual schema conversion, the task was completed effectively. Ensuring a smooth migration process helps organizations take advantage of PostgreSQL’s advanced features, security, and extensibility while retaining the core structure and integrity of their original data.
 
 #OUTPUT
-
-
-
+![Image](https://github.com/user-attachments/assets/7be897dc-c262-46a5-9337-a41ad91772a6)
 
